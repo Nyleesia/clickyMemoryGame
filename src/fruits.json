@@ -1,0 +1,50 @@
+[
+    { "id": 1,
+      "image": "https://images.pexels.com/photos/1153655/pexels-photo-1153655.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260 ", 
+      "clicked" : false
+    },
+    { "id": 2,
+        "image": "https://images.pexels.com/photos/70746/strawberries-red-fruit-royalty-free-70746.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", 
+        "clicked" : false
+    },
+    { "id": 3,
+        "image": "https://images.pexels.com/photos/693794/pexels-photo-693794.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", 
+        "clicked" : false
+    },
+    { "id": 4,
+        "image": "https://images.pexels.com/photos/59999/raspberries-fruits-fruit-berries-59999.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", 
+        "clicked" : false
+    },
+    { "id": 5,
+        "image": "https://images.pexels.com/photos/41957/banana-fruit-healthy-yellow-41957.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", 
+        "clicked" : false
+    },
+    { "id": 6,
+        "image": "https://images.pexels.com/photos/1327838/pexels-photo-1327838.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", 
+        "clicked" : false
+    },
+    { "id": 7,
+        "image": "https://images.pexels.com/photos/59830/melons-water-melons-fruit-green-59830.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", 
+        "clicked" : false
+    },
+    { "id": 8,
+        "image": "https://images.pexels.com/photos/357742/pexels-photo-357742.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", 
+        "clicked" : false
+    },
+    { "id": 9,
+        "image": "https://images.pexels.com/photos/46518/lychee-fruits-pink-food-46518.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", 
+        "clicked" : false
+    },
+    { "id": 10,
+        "image": "https://images.pexels.com/photos/966416/pexels-photo-966416.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", 
+        "clicked" : false
+    },
+    { "id": 11,
+        "image": "https://images.pexels.com/photos/849685/pexels-photo-849685.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", 
+        "clicked" : false
+    },
+    { "id": 12,
+        "image": "https://images.pexels.com/photos/53371/oranges-citrus-fruits-citrus-fruit-fruit-53371.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", 
+        "clicked" : false
+    }
+]
